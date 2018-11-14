@@ -1,4 +1,4 @@
-package quick_sort;
+package quicksort;
 
 public class HelloWorld {
     public static void main(String[] args) {
